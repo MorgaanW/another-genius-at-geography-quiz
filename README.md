@@ -1,6 +1,8 @@
 
+
 ## User Stories
 * As a Site owner!
+
 
   * As a site owner, I want to implement responsive design principles to ensure that the quiz game is accessible and functional across a variety of devices and screen sizes, to maximize reach and engagement.
   * As a site owner, I want to integrate an API for generating quiz questions seamlessly , ensuring that it fetches a diverse range of geography-related questions reliably and  efficiently.
