@@ -29,7 +29,7 @@
 
     * An event listener that plays an audio sound depending on the users' correct/incorrect answers.
 
-    * A feedback score counter of correct and incorrect answers that updates as the user moves through the questions on the quiz.
+    * A feedback point score that updates as the user moves through the questions on the quiz.
 
 * End page - The end page lets the user know their final score at the end of the quiz, with an added option to save their username and score to the leaderboard, if they would like. If so, the user is then taken to the leaderboard page to see the top scores!
     * The end page also includes a button that takes the user back to the home page without saving their result and the option to take the quiz again from the home page.
@@ -55,26 +55,23 @@
 
 ## Colors
 
-* #ffffff (white) 
-* #000000 (black)
+* #ffffff
+* #000000
+* #713535
 
 The above colors are used for font color, link and answer buttons.
 
 
-## Wireframes 
-
-![first page-wireframe H2](https://github.com/MorgaanW/genius-at-geography-quiz/assets/76822546/954ee76a-4632-466c-9530-ddcbe7520a1c)
-![question page wireframe - H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/3155ca6a-8f06-426e-8267-51cf13cf8bb2)
-![third page wireframe -H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/0b25cf66-6b1d-472e-b9f1-8b023710f302)
-![top score page wireframe H2 ](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/43421560-354c-4978-822c-7fbd3d4e2d9c)
-
 ## Technologies used
 
+## Languages
 * HTML 
 
 * CSS 
 
-* JavaScript 
+* JavaScript
+
+ ## Frameworks, Libraries & Programmes Used
 
 * Google Fonts as font resource
 
@@ -86,16 +83,35 @@ The above colors are used for font color, link and answer buttons.
 
 * Balsamiq as wireframing tool application
 
+* Pixabay for background image resource
+
+* Am I Responsive to ensure the site is responsive across different devices
+
+* W3C Markup Validator to validate HTML
+
+* W3C CSS Validator to validate CSS
+
 * [API - Open Trivia geography quiz ](https://opentdb.com/api_config.php).  
 
 ## Testing and Validation
 * HTML and CSS
+  
 * Accessibility and Responsiveness
+  
 * Compatibility
+  
 * User stories testing
-   * Website owner
-   * New visitor
-   * Returning visitor
+  
+* Website owner
+     
+* New visitor
+  
+New visitors to the website can easily navigate to the how to play section. With a minamilist design making it easy for the new visitor to jump straight into the quiz, across different devices to suit their needs. 
+ 
+* Returning visitor
+ 
+Returning visitors have the chance to beat their old score when they play the game again. Whilst improving their knowledge about geography, enjoying a different set of questions selected from the Open Trivia API.
+
 ## Bugs
 ## Deployment
 ## Credits
