@@ -42,6 +42,7 @@
   #hud {
     display: flex;
     justify-content: space-between;
+    
   }
   
   .hud-prefix {
@@ -55,14 +56,14 @@
   
   #progressBar {
     width: 20rem;
-    height: 4rem;
+    height: 3.8rem;
     border: 0.3rem solid #3a2e17;
     margin-top: 1.5rem;
   }
   
   #progressBarFull {
     height: 3.4rem;
-    background-color: #3a2e17;
+    background-color: #ffffff;
     width: 0%;
   } */
   
