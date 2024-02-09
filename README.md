@@ -143,6 +143,28 @@ Returning visitors have the chance to beat their old score when they play the ga
       
 ## Credits
 
+
+* Arrow functions-[YouTube] [https://www.youtube.com/watch?v=ajTvmGxWQF8&ab_channel=ColorCode]
+  
+*Spread operator-[YouTube] https://www.youtube.com/watch?v=1INe_jCWq1Q&ab_channel=NetNinja]
+
+* Traversing the DOM-[YouTube] [https://www.youtube.com/watch?v=VMRo6Uv856E&ab_channel=NetNinja]
+  
+* Build a loader W3 Schools-[Link] [https://www.w3schools.com/howto/howto_css_loader.asp]
+
+* Array.from function-[YouTube][https://www.youtube.com/watch?v=NPbDqbwtr-4&ab_channel=dcode]
+    
+* Build a quiz app with JavaScript tutorial-[YouTube] [https://www.youtube.com/playlist?list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx]
+  
+* Promises-[YouTube] [https://www.youtube.com/watch?v=TnhCX0KkPqs&ab_channel=ColorCode]
+  
+* CSS Transform properties-[YouTube] [https://www.youtube.com/watch?v=rzD-cPhq02E&ab_channel=WebDevSimplified]
+  
+* Fetch API-[YouTube] [https://www.youtube.com/watch?v=37vxWr0WgQk&ab_channel=BroCode]
+
+* Callback Functions- [YouTube] [https://www.youtube.com/watch?v=cNjIUSDnb9k&ab_channel=CodewithAniaKub%C3%B3w]
+
+
 * Alessandra Costa - Alex Pub Quiz
 * Iris Smok - Kids Memory Game
 * Youtube = https://www.youtube.com/watch?v=3aKOQn2NPFs - API Intergration
