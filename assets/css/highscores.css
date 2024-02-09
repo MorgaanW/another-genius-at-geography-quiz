@@ -1,4 +1,4 @@
-/* #highScoresList {
+#highScoresList {
     list-style: none;
     padding-left: 0;
     margin-bottom: 4rem;
@@ -13,4 +13,4 @@
   .high-score:hover {
     transform: scale(1.025);
   }
-   */
+  
