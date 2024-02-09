@@ -167,7 +167,7 @@ Returning visitors have the chance to beat their old score when they play the ga
 
 * Arrow functions-[YouTube] [https://www.youtube.com/watch?v=ajTvmGxWQF8&ab_channel=ColorCode]
   
-*Spread operator-[YouTube] https://www.youtube.com/watch?v=1INe_jCWq1Q&ab_channel=NetNinja]
+* Spread operator-[YouTube] https://www.youtube.com/watch?v=1INe_jCWq1Q&ab_channel=NetNinja]
 
 * Traversing the DOM-[YouTube] [https://www.youtube.com/watch?v=VMRo6Uv856E&ab_channel=NetNinja]
   
