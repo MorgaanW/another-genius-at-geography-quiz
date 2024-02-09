@@ -4,7 +4,10 @@
   font-size: 62.5%;
   background-image: url('/assets/images/background.png.png');
   background-size: cover;
+  background-color: rgba(34, 16, 16, 1);
 }
+
+
 
 * {
   box-sizing: border-box;
@@ -19,25 +22,25 @@ h2,
 h3,
 h4 {
   margin-bottom: 1rem;
-  font-family: 'Quicksand';
+  font-family: 'Quicksand', sans-serif;
 }
 
 h1 {
   font-size: 5.4rem;
   color: #ffffff;
   margin-bottom: 5rem;
-  font-family: 'Quicksand';
+  font-family: 'Quicksand', sans-serif;
 }
 
 h1 > span {
   font-size: 2.4rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 h2 {
-  font-size: 4.2rem;
+  font-size: 5rem;
   margin-bottom: 4rem;
-  font-weight: 700;
+  font-weight: 600;
   color: #ffffff;
 }
 
@@ -50,8 +53,28 @@ h4 {
   font-size: 5.4rem;
   font-weight: 700;
   margin-bottom: 5rem;
+  color: #713535;
+  font-family: 'Quicksand', sans-serif;
+}
+
+ .hud-prefix {
+  font-size: 6rem;
+  font-weight: bold;
   color: #ffffff;
-  font-family: 'Quicksand';
+  font-weight: 700;
+  font-family: 'Quicksand', sans-serif;
+ margin-bottom: 3rem;
+} 
+#hud {
+  color:#ffffff;
+}
+
+#finalscore: {
+  font-size: 5rem;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  margin-bottom: 3rem;
 }
 
 ol,
@@ -59,7 +82,7 @@ li {
   font-size: 2rem;
   color: #713535;
   margin-bottom: 2rem;
-  font-family: 'Quicksand';
+  font-family: 'Quicksand', sans-serif;
 }
 #rules {
   width: 90vw;
@@ -69,8 +92,16 @@ li {
   align-items: center;
   max-width: 90rem;
   margin: 0 auto;
-  box-shadow: 5px 10px rgba(255, 255, 255, 0.39);
+  box-shadow: 5px 10px rgba(71,35,35, 0.39);
 }
+
+#username {
+  font-size: 1.8rem;
+  height
+}
+
+
+
 /* UTILITIES */
 
 .container {
@@ -129,7 +160,7 @@ li {
 
 .btn:hover {
   cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(255, 255, 255, 0.75);
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(255, 255, 255, 0.836);
   transform: translateY(-0.1rem);
   transition: transform 150ms;
 }
