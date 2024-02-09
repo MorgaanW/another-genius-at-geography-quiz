@@ -1,6 +1,6 @@
 ## Genius At Geography Quiz!
 
-![image (1)](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/28954582-f65f-417d-be57-b088e810e79c)
+![image (2)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/0beaace5-a2ec-4588-abe8-cf1f06eb949a)
 
 
 ## User Stories
@@ -27,8 +27,6 @@
 
     * Multiple choice answer buttons that immediately log the gamers' answer and automatically displays the next question. 
 
-    * An event listener that plays an audio sound depending on the users' correct/incorrect answers.
-
     * A feedback point score that updates as the user moves through the questions on the quiz.
 
 * End page - The end page lets the user know their final score at the end of the quiz, with an added option to save their username and score to the leaderboard, if they would like. If so, the user is then taken to the leaderboard page to see the top scores!
@@ -36,18 +34,26 @@
 
 * Leaderboard page - This page consists of a table showing the top scores from saved quiz takers and also a button to return the user back to the home page.
 
+## Future features
+
+* An event listener that plays an audio sound depending on the users' correct/incorrect answers.
+* Players to be able to choose difficulty level & category.
+* Increased number of questions in a game session to up the challenge.
+  
+
 ## Design
 
 ## Wireframes
 
-![first page-wireframe H2](https://github.com/MorgaanW/genius-at-geography-quiz/assets/76822546/954ee76a-4632-466c-9530-ddcbe7520a1c)
-![question page wireframe - H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/3155ca6a-8f06-426e-8267-51cf13cf8bb2)
-![third page wireframe -H2](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/0b25cf66-6b1d-472e-b9f1-8b023710f302)
+![Wireframe H2 first page](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/8b610b2d-2ea7-4761-82bf-b3092aad2660)
+![question page H2 low](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/c286c43e-c81d-413a-b703-75ba723d1809)
+![Wireframe H2 end page](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/0f09139b-e0bb-41b7-935c-821c5732d516)
 ![top score page wireframe H2 ](https://github.com/jenaleigh01/genius-at-geography-quiz/assets/153202221/43421560-354c-4978-822c-7fbd3d4e2d9c)
 
 ## Font
 
 * Quicksand, sans-serif - main font.
+* Arial, helvetica, sans-serif - used for font inside answer boxes.
 
 ## Media
 
@@ -114,6 +120,37 @@ Returning visitors have the chance to beat their old score when they play the ga
 
 ## Bugs
 ## Deployment
+
+## GitHub Pages
+
+**This site was deployed to GitHub pages as follows.**
+ * Go to the Settings tab of GitHub repo.
+ * On the left-hand sidebar, in the Code and automation section, select Pages.
+ * Make sure: Source is set to 'Deploy from Branch'.
+ * Main branch is selected.
+ * Folder is set to / (root).
+ * Under Branch, click Save.
+ * Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repo.
+ * On the right-hand side, in the Environments section, click on 'github-pages'.
+ * Click View deployment to see the live site.
+
+**The URL link is available here**
+
+* GitHub Clone
+   1. 	Install GitPod browser if you don’t already have it.
+   2. 	Log into GitHub and locate the repository.
+   3. 	Just below settings click the Gitpod button
+      
 ## Credits
+
+* Alessandra Costa - Alex Pub Quiz
+* Iris Smok - Kids Memory Game
+* Youtube = https://www.youtube.com/watch?v=3aKOQn2NPFs - API Intergration
+* https://www.w3schools.com/css/css3_buttons.asp - Button Functionality
+
+## Acknowledgements
+
+* A big thank you to team Script Squad for their hard work!
+* Coding coaches at Code Institute for all help when needed.
 
 
