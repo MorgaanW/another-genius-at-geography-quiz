@@ -85,7 +85,7 @@ li {
   font-family: 'Quicksand', sans-serif;
 }
 #rules {
-  width: 90vw;
+  width: ;
   height: 90vh;
   display: flex;
   justify-content: center;
@@ -169,4 +169,46 @@ li {
   cursor: not-allowed;
   box-shadow: none;
   transform: none;
+}
+
+
+@media only screen and (min-width) {
+
+}
+
+
+
+/* small devices */
+@media only screen and (max-width: 767px) {
+  :root {
+    background-position: center;
+  }
+  h1 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  }
+
+  #rules {
+    font-size: 30px;
+    padding: 40px;
+  }
+  h4 {
+    font-size: 50px;
+    text-align: center;
+  }
+}
+
+
+/* tablets etc */
+@media only screen and (min-width: 768px) {
+  :root {
+    background-position: center;
+  }
+  h1 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  }
+
 }
