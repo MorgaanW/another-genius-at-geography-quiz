@@ -100,9 +100,24 @@ The above colors are used for font color, link and answer buttons.
 * [API - Open Trivia geography quiz ](https://opentdb.com/api_config.php).  
 
 ## Testing and Validation
-* HTML and CSS
+## HTML
+
+![image (3)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/5e8bb266-29ba-4a07-97aa-1752befaad00)
+
+
+![image (4)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/ffcc5be2-3fed-49ea-a81b-203d25768d00)
+
+## CSS
+
+![image (6)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/49184b6c-d33e-4e2f-ba8a-12e31235e4cf)
+
+
+![image (5)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/6149bccc-8f4d-4792-8fe6-42d20dce84e7)
+
+
   
 * Accessibility and Responsiveness
+* 
   
 * Compatibility
   
