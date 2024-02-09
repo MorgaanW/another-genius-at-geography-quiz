@@ -185,8 +185,7 @@ Returning visitors have the chance to beat their old score when they play the ga
 
 * Callback Functions- [YouTube] [https://www.youtube.com/watch?v=cNjIUSDnb9k&ab_channel=CodewithAniaKub%C3%B3w]
 
-
-* Alessandra Costa - Alex Pub Quiz
+* Alessandra Costa - Alex Pub Quiz- [link] [[https://github.com/alessandracosta8/alex-pub-quiz-pp2/tree/main)]
 * Iris Smok - Kids Memory Game
 * Youtube = https://www.youtube.com/watch?v=3aKOQn2NPFs - API Intergration
 * https://www.w3schools.com/css/css3_buttons.asp - Button Functionality

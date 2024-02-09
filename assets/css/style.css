@@ -85,7 +85,7 @@ li {
   font-family: 'Quicksand', sans-serif;
 }
 #rules {
-  width: 90vw;
+  width: ;
   height: 90vh;
   display: flex;
   justify-content: center;
@@ -186,5 +186,67 @@ li {
   background-color: rgb(246, 242, 242);
   border-radius: 4px;
   box-shadow: 1px 3px rgb(246,242,242);
+
+}
+
+.input{font-size: 1.8rem;
+  padding: 1rem 0;
+  width: 20rem;
+  text-align: center;
+  border: 0.1rem solid rgb(252, 248, 248);
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  text-decoration: none;
+  color: #eaf0f5;
+  background-color: rgb(246, 242, 242);
+  border-radius: 4px;
+  box-shadow: 1px 3px rgb(246,242,242);
+
+}
+
+
+@media only screen and (min-width) {
+
+}
+
+
+
+/* small devices */
+@media only screen and (max-width: 767px) {
+  :root {
+    background-position: center;
+  }
+  h1 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  }
+
+  #rules {
+    font-size: 30px;
+    padding: 40px;
+  }
+  h4 {
+    font-size: 50px;
+    text-align: center;
+  }
+
+  h2 {
+    min-width: 30px;
+    padding: 30px;
+  }
+}
+
+
+/* tablets etc */
+@media only screen and (min-width: 768px) {
+  :root {
+    background-position: center;
+  }
+  h1 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+  }
 
 }
