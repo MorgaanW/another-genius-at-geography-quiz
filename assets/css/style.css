@@ -96,8 +96,10 @@ li {
 }
 
 #username {
-  font-size: 1.8rem;
-  height
+  font-size: 1.9rem;
+  border-radius: 0.5rem;
+  color:#713535
+  
 }
 
 
