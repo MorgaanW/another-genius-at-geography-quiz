@@ -17,7 +17,7 @@
   
   .choice-prefix {
     padding: 1.5rem 2.5rem;
-    background-color: #3a2e17
+    background-color: #3a2e17;
     color: white;
   }
   
@@ -104,3 +104,9 @@
   .hidden{
     display: none;
   } 
+
+
+  /* small devices */
+@media only screen and (max-width: 575px) {
+
+}
