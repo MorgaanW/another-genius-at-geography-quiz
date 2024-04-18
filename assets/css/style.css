@@ -69,12 +69,12 @@ h4 {
   color:#ffffff;
 }
 
-#finalscore: {
+#finalscore {
   font-size: 5rem;
   font-weight: 700;
   color: #ffffff;
   font-family: 'Quicksand', sans-serif;
-  margin-bottom: 3rem;
+    margin-bottom: 3rem;
 }
 
 ol,
@@ -85,7 +85,7 @@ li {
   font-family: 'Quicksand', sans-serif;
 }
 #rules {
-  width: ;
+  width: 100%;
   height: 90vh;
   display: flex;
   justify-content: center;
