@@ -97,18 +97,44 @@ The above colors are used for font color, link and answer buttons.
 
 * W3C CSS Validator to validate CSS
 
+* JShint for JavaScript code Validator
+
 * [API - Open Trivia geography quiz ](https://opentdb.com/api_config.php).  
 
 ## Testing and Validation
-* HTML and CSS
-  
-* Accessibility and Responsiveness
-  
-* Compatibility
-  
-* User stories testing
-  
-* Website owner
+## HTML
+
+![image (3)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/5e8bb266-29ba-4a07-97aa-1752befaad00)
+
+
+
+
+![image (4)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/ffcc5be2-3fed-49ea-a81b-203d25768d00)
+
+## CSS
+
+![image (6)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/49184b6c-d33e-4e2f-ba8a-12e31235e4cf)
+
+
+
+
+![image (5)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/6149bccc-8f4d-4792-8fe6-42d20dce84e7)
+
+
+## JS Testing 
+
+A total of 40 warnings were flagged by the JSHint Validator on the JavaScript. All of these flags are to do with variable names (let and const) and their availability on different browsers and some missing semicolons.
+
+
+![image (8)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/77130a5e-d575-41e0-ac21-0eef90f29d36)
+
+
+
+
+## Lighthouse tools was used to test the website
+
+ ![image (7)](https://github.com/MorgaanW/another-genius-at-geography-quiz/assets/153202221/958f099a-89d9-4e81-8aa4-355c8aa398e3)
+
      
 * New visitor
   
@@ -118,10 +144,10 @@ New visitors to the website can easily navigate to the how to play section. With
  
 Returning visitors have the chance to beat their old score when they play the game again. Whilst improving their knowledge about geography, enjoying a different set of questions selected from the Open Trivia API.
 
-## Bugs
+
 ## Deployment
 
-## GitHub Pages
+  GitHub Pages
 
 **This site was deployed to GitHub pages as follows.**
  * Go to the Settings tab of GitHub repo.
